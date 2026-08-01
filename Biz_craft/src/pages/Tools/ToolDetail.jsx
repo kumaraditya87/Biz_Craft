@@ -89,7 +89,7 @@ import {
   ChevronDown
 } from 'lucide-react';
 import { toast } from 'react-hot-toast';
-import { availableTools } from './Data/toolsData';
+import { availableTools } from './data/toolsData';
 
 const styles = `
   @keyframes float {
